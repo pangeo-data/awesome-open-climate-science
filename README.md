@@ -50,7 +50,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ### Meteorology
 
-- [MetPy](https://unidata.github.io/MetPy) - ![Python](media/icon/python.png) Collection of tools for reading, visualizing, and performing calculations with weather data.
+- [MetPy](https://unidata.github.io/MetPy/) - ![Python](media/icon/python.png) Collection of tools for reading, visualizing, and performing calculations with weather data.
 - [windspharm](https://ajdawson.github.io/windspharm/index.html) - ![Python](media/icon/python.png) Spherical harmonic wind analysis
 
 ### Oceanography
@@ -67,7 +67,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ### Regridding
 
-- [xESMF](https://xesmf.readthedocs.io) - ![Python](media/icon/python.png) Regridding for numpy and Xarray datasets based on the Earth Systems Modeling Framework (ESMF) library
+- [xESMF](https://xesmf.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Regridding for numpy and Xarray datasets based on the Earth Systems Modeling Framework (ESMF) library
 
 ### Data Storage
 
