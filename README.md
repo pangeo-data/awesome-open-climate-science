@@ -3,7 +3,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.com/pangeo-data/awesome-open-climate-science.svg?branch=master)](https://travis-ci.com/pangeo-data/awesome-open-climate-science) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/pangeo-data/awesome-open-climate-science.svg?label=contributions)](https://github.com/pangeo-data/awesome-open-climate-science/pulls) [![Commits](https://img.shields.io/github/last-commit/pangeo-data/awesome-open-climate-science.svg?label=last%20contribution)](https://github.com/pangeo-data/awesome-open-climate-science/commits/master)  [![License](https://img.shields.io/github/license/pangeo-data/awesome-open-climate-science.svg)](https://github.com/pangeo-data/awesome-open-climate-science/blob/master/LICENSE)  
 
-This is a curated list of open source software pacakges that  make our lives as scientists, hackers and data wranglers easier or just more awesome.
+This is a curated list of open source software packages that  make our lives as scientists, hackers and data wranglers easier or just more awesome.
 This list is intended to be the fluid-earth counterpart of
 [awesome open geoscience](https://github.com/softwareunderground/awesome-open-geoscience),
 although there is inevitably some overlap.
@@ -22,6 +22,8 @@ Don't hesitate to add your favorite packages by making a [pull request]
     - [Meteorology](#meteorology)
     - [Oceanography](#oceanography)
     - [Climate](#climate)
+    - [Remote Sensing](#remote-sensing)
+    - [Glaciology](#glaciology)
     - [Spatiotemporal Statistics](#spatiotemporal-statistics)
     - [Regridding](#regridding)
     - [Data Storage](#data-storage)
@@ -32,58 +34,123 @@ Don't hesitate to add your favorite packages by making a [pull request]
 - [Miscellaneous](#miscellaneous)
 - [How to Contribute](#how-to-contribute)
 
-
 ## Software
 Awesome software projects sub-categorized by focus.
 
 ### General Purpose
 
-While packages are not technically specific to AOCH science, they are so essential for scientific workflows that we can't not include them.
+| ▲ [Top](#awesome-open-geoscience) |
+| --- |
+
+While packages are not technically specific to AOCH science, they are so essential for scientific workflows that we can't not include them
 
 - [Pandas](https://pandas.pydata.org/) - ![Python](media/icon/python.png) Data structures and computational tools for working with tabular datasets
 - [Xarray](http://xarray.pydata.org/en/latest/) - ![Python](media/icon/python.png) Data structures and computational tools for multidimensional arrays, inspired by netCDF data model
 
 ### Frameworks
 
-- Iris
-- CDMS
+| ▲ [Top](#awesome-open-geoscience) |
+| --- |
+
+- [Iris](https://scitools.org.uk/iris/docs/latest/) - ![Python](media/icon/python.png) Expressive analysis and visualization of multi-dimensional datasets based on the CF conventions
+- [CDMS](https://cdms.readthedocs.io/en/latest/index.html) - ![Python](media/icon/python.png) Object-oriented data management system for multidimensional, gridded data used in climate analysis and simulation
 
 ### Meteorology
 
-- [MetPy](https://unidata.github.io/MetPy/) - ![Python](media/icon/python.png) Collection of tools for reading, visualizing, and performing calculations with weather data.
+| ▲ [Top](#awesome-open-geoscience) |
+| --- |
+
+- [MetPy](https://unidata.github.io/MetPy/) - ![Python](media/icon/python.png) Collection of tools for reading, visualizing, and performing calculations with weather data
 - [windspharm](https://ajdawson.github.io/windspharm/index.html) - ![Python](media/icon/python.png) Spherical harmonic wind analysis
+- [wrf-python](https://wrf-python.readthedocs.io/) - ![Python](media/icon/python.png) A collection of diagnostic and interpolation routines for use with output of the Weather Research and Forecasting (WRF-ARW) Model
 
 ### Oceanography
 
-- [GSW-Python](https://github.com/TEOS-10/GSW-Python) - ![Python](media/icon/python.png) Thermodynamic equation of state for seawater.
+| ▲ [Top](#awesome-open-geoscience) |
+| --- |
+
+- [GSW-Python](https://github.com/TEOS-10/GSW-Python) - ![Python](media/icon/python.png) Thermodynamic equation of state for seawater
 
 ### Climate
 
+| ▲ [Top](#awesome-open-geoscience) |
+| --- |
+
 - [climlab](https://climlab.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Process-oriented climate modeling
+- [aospy](https://aospy.readthedocs.io/) - ![Python](media/icon/python.png) Automated analysis and management of gridded climate data
+- [Oocgcm](https://oocgcm.readthedocs.io/) - ![Python](media/icon/python.png) Analysis of large gridded geophysical datasets
+- [Pangaea:](https://pangaea.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) xarray extension for gridded land surface & weather model output
+- [xgcm](https://xgcm.readthedocs.io/) - ![Python](media/icon/python.png) Extends the xarray data model to understand finite volume grid cells (common in General Circulation Models) and provides interpolation and difference operations for such grids
+- [OpenClimateGIS](https://www.earthsystemcog.org/projects/openclimategis/) - ![Python](media/icon/python.png) Geospatial manipulation, subsetting, computation, and translation of spatiotemporal climate data
+
+### Remote Sensing
+
+| ▲ [Top](#awesome-open-geoscience) |
+| --- |
+
+- [SatPy](https://satpy.readthedocs.io/)  - ![Python](media/icon/python.png) Read and manipulate meteorological remote sensing data and write it to various image and data file formats
+- [Open Data Cube](https://www.opendatacube.org/) - ![Python](media/icon/python.png) Analysis toolkit for continental scale Earth Observation data from satellites
+
+### Glaciology
+
+| ▲ [Top](#awesome-open-geoscience) |
+| --- |
+
+- [OGGM](http://oggm.org/) - ![Python](media/icon/python.png) Open Global Glacier Model
 
 ### Spatiotemporal Statistics
+
+| ▲ [Top](#awesome-open-geoscience) |
+| --- |
 
 - [EOFs](https://ajdawson.github.io/eofs/) - ![Python](media/icon/python.png) EOF analysis
 
 ### Regridding
 
+| ▲ [Top](#awesome-open-geoscience) |
+| --- |
+
 - [xESMF](https://xesmf.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Regridding for numpy and Xarray datasets based on the Earth Systems Modeling Framework (ESMF) library
+- [Pyresample](https://pyresample.readthedocs.io/en/stable/) - ![Python](media/icon/python.png) Resample/reproject earth observing satellite data
+
+### GIS
+
+| ▲ [Top](#awesome-open-geoscience) |
+| --- |
+
+- [geopandas](http://geopandas.org/) - ![Python](media/icon/python.png) Spatial GIS operations on geometric types. 
+- [salem](https://salem.readthedocs.io) - ![Python](media/icon/python.png) Adds geolocalised subsetting, masking, and plotting operations to xarray's data structures via accessors
+- [Regionmask](https://regionmask.readthedocs.io/) - ![Python](media/icon/python.png) plotting and creation of masks of spatial regions
+- [xshape](https://xshape.readthedocs.io/) - ![Python](media/icon/python.png) Tools for working with shapefiles, topographies, and polygons in xarray
+- [Collocate](https://github.com/cistools/collocate) - ![Python](media/icon/python.png) Collocate xarray trajectories in arbitrary physical dimensions
 
 ### Data Storage
 
-- netCDF
-- HDF
-- Zarr
-- xmitgcm
+| ▲ [Top](#awesome-open-geoscience) |
+| --- |
+
+- [netCDF](https://www.unidata.ucar.edu/software/netcdf/) - NetCDF (Network Common Data Form) is a set of interfaces for array-oriented data access and a freely distributed collection of data access libraries for C, Fortran, C++, Java, Python, and other languages
+- [HDF5](https://www.hdfgroup.org/solutions/hdf5/) - HDF5 is a high-performance data management data storage format. HDF interfaces are available in C, Fortran, C++, Java, Python, and other languages
+- [Zarr](https://zarr.readthedocs.io/en/stable/index.html) - chunked, compressed, N-dimensional arrays.
+- [xmitgcm](https://xmitgcm.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Read MITgcm binary MDS files into xarray data structures.
+- [xbpch](https://github.com/darothen/xbpch) - ![Python](media/icon/python.png) Xarray interface for bpch files
+- [PyGDX](https://pygdx.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Access data stored in GAMS Data eXchange (GDX) files
 
 ### Simulation
 
+| ▲ [Top](#awesome-open-geoscience) |
+| --- |
+
 - Do we list all the open source climate model codes? Are they awesome enough?
+- [xarray-simlab](https://xarray-simlab.readthedocs.io) - ![Python](media/icon/python.png) xarray extension for computer model simulations
 
 ### Visualization
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
+
+- [Cartopy](https://scitools.org.uk/cartopy/docs/latest) - ![Python](media/icon/python.png) Easy cartographic (maps) data visualization.
+- [Geoviews](http://geo.holoviews.org/) - ![Python](media/icon/python.png) Explore and visualize geographic data using HoloViews. 
 
 ## Data Repositories
 
@@ -104,7 +171,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ## How to Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
@@ -114,4 +181,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, all contributors have waived all copyright and
-related or neighboring rights to this work.
+related or neighboring rights to this work
