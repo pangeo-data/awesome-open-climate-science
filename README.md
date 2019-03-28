@@ -16,7 +16,9 @@ Don't hesitate to add your favorite packages by making a [pull request]
 
 ## Contents
 
-- [Software](#software)
+- [Awesome Open Atmospheric, Ocean, and Climate Science](#awesome-open-atmospheric-ocean-and-climate-science)
+  - [Contents](#contents)
+  - [Software](#software)
     - [General Purpose](#general-purpose)
     - [Frameworks](#frameworks)
     - [Meteorology](#meteorology)
@@ -26,13 +28,15 @@ Don't hesitate to add your favorite packages by making a [pull request]
     - [Glaciology](#glaciology)
     - [Spatiotemporal Statistics](#spatiotemporal-statistics)
     - [Regridding](#regridding)
+    - [GIS](#gis)
     - [Data Storage](#data-storage)
     - [Simulation](#simulation)
     - [Visualization](#visualization)
-- [Data Repositories](#data-repositories)
-- [Tutorials and Cheat Sheets](#tutorials-and-cheat-sheets)
-- [Miscellaneous](#miscellaneous)
-- [How to Contribute](#how-to-contribute)
+  - [Data Repositories](#data-repositories)
+  - [Tutorials and Cheat Sheets](#tutorials-and-cheat-sheets)
+  - [Miscellaneous](#miscellaneous)
+  - [How to Contribute](#how-to-contribute)
+  - [License](#license)
 
 ## Software
 Awesome software projects sub-categorized by focus.
@@ -62,7 +66,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 - [MetPy](https://unidata.github.io/MetPy/) - ![Python](media/icon/python.png) Collection of tools for reading, visualizing, and performing calculations with weather data
 - [windspharm](https://ajdawson.github.io/windspharm/index.html) - ![Python](media/icon/python.png) Spherical harmonic wind analysis
-- [wrf-python](https://wrf-python.readthedocs.io/) - ![Python](media/icon/python.png) A collection of diagnostic and interpolation routines for use with output of the Weather Research and Forecasting (WRF-ARW) Model
+- [wrf-python](https://wrf-python.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) A collection of diagnostic and interpolation routines for use with output of the Weather Research and Forecasting (WRF-ARW) Model
 
 ### Oceanography
 
@@ -77,10 +81,10 @@ While packages are not technically specific to AOCH science, they are so essenti
 | --- |
 
 - [climlab](https://climlab.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Process-oriented climate modeling
-- [aospy](https://aospy.readthedocs.io/) - ![Python](media/icon/python.png) Automated analysis and management of gridded climate data
-- [Oocgcm](https://oocgcm.readthedocs.io/) - ![Python](media/icon/python.png) Analysis of large gridded geophysical datasets
+- [aospy](https://aospy.readthedocs.io/en/stable/) - ![Python](media/icon/python.png) Automated analysis and management of gridded climate data
+- [Oocgcm](https://oocgcm.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Analysis of large gridded geophysical datasets
 - [Pangaea:](https://pangaea.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) xarray extension for gridded land surface & weather model output
-- [xgcm](https://xgcm.readthedocs.io/) - ![Python](media/icon/python.png) Extends the xarray data model to understand finite volume grid cells (common in General Circulation Models) and provides interpolation and difference operations for such grids
+- [xgcm](https://xgcm.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Extends the xarray data model to understand finite volume grid cells (common in General Circulation Models) and provides interpolation and difference operations for such grids
 - [OpenClimateGIS](https://www.earthsystemcog.org/projects/openclimategis/) - ![Python](media/icon/python.png) Geospatial manipulation, subsetting, computation, and translation of spatiotemporal climate data
 
 ### Remote Sensing
@@ -88,7 +92,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
 
-- [SatPy](https://satpy.readthedocs.io/)  - ![Python](media/icon/python.png) Read and manipulate meteorological remote sensing data and write it to various image and data file formats
+- [SatPy](https://satpy.readthedocs.io/en/latest/)  - ![Python](media/icon/python.png) Read and manipulate meteorological remote sensing data and write it to various image and data file formats
 - [Open Data Cube](https://www.opendatacube.org/) - ![Python](media/icon/python.png) Analysis toolkit for continental scale Earth Observation data from satellites
 
 ### Glaciology
@@ -96,7 +100,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
 
-- [OGGM](http://oggm.org/) - ![Python](media/icon/python.png) Open Global Glacier Model
+- [OGGM](https://oggm.org/) - ![Python](media/icon/python.png) Open Global Glacier Model
 
 ### Spatiotemporal Statistics
 
@@ -119,9 +123,9 @@ While packages are not technically specific to AOCH science, they are so essenti
 | --- |
 
 - [geopandas](http://geopandas.org/) - ![Python](media/icon/python.png) Spatial GIS operations on geometric types. 
-- [salem](https://salem.readthedocs.io) - ![Python](media/icon/python.png) Adds geolocalised subsetting, masking, and plotting operations to xarray's data structures via accessors
-- [Regionmask](https://regionmask.readthedocs.io/) - ![Python](media/icon/python.png) plotting and creation of masks of spatial regions
-- [xshape](https://xshape.readthedocs.io/) - ![Python](media/icon/python.png) Tools for working with shapefiles, topographies, and polygons in xarray
+- [salem](https://salem.readthedocs.ioen/latest/) - ![Python](media/icon/python.png) Adds geolocalised subsetting, masking, and plotting operations to xarray's data structures via accessors
+- [Regionmask](https://regionmask.readthedocs.io/en/stable/) - ![Python](media/icon/python.png) plotting and creation of masks of spatial regions
+- [xshape](https://xshape.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Tools for working with shapefiles, topographies, and polygons in xarray
 - [Collocate](https://github.com/cistools/collocate) - ![Python](media/icon/python.png) Collocate xarray trajectories in arbitrary physical dimensions
 
 ### Data Storage
@@ -142,14 +146,14 @@ While packages are not technically specific to AOCH science, they are so essenti
 | --- |
 
 - Do we list all the open source climate model codes? Are they awesome enough?
-- [xarray-simlab](https://xarray-simlab.readthedocs.io) - ![Python](media/icon/python.png) xarray extension for computer model simulations
+- [xarray-simlab](https://xarray-simlab.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) xarray extension for computer model simulations
 
 ### Visualization
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
 
-- [Cartopy](https://scitools.org.uk/cartopy/docs/latest) - ![Python](media/icon/python.png) Easy cartographic (maps) data visualization.
+- [Cartopy](http://scitools.org.uk/cartopy/docs/latest) - ![Python](media/icon/python.png) Easy cartographic (maps) data visualization.
 - [Geoviews](http://geo.holoviews.org/) - ![Python](media/icon/python.png) Explore and visualize geographic data using HoloViews. 
 
 ## Data Repositories
