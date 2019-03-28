@@ -153,7 +153,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
 
-- [Cartopy](http://scitools.org.uk/cartopy/docs/latest) - ![Python](media/icon/python.png) Easy cartographic (maps) data visualization.
+- [Cartopy](https://scitools.org.uk/cartopy/docs/latest) - ![Python](media/icon/python.png) Easy cartographic (maps) data visualization.
 - [Geoviews](http://geo.holoviews.org/) - ![Python](media/icon/python.png) Explore and visualize geographic data using HoloViews. 
 
 ## Data Repositories
