@@ -82,7 +82,11 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ### Visualization
 
-- [PyViz](http://pyviz.org/) - ![Python](media/icon/python.png) A coordinated effort to make data visualization in Python easier to use, easier to learn, and more powerful
+- [PyViz](http://pyviz.org/) - ![Python](media/icon/python.png) A coordinated effort to make data visualization in Python easier to use, easier to learn, and more powerful. Sub-components include:
+  - [HoloViews](http://holoviews.org/) - Library designed to make data analysis and visualization seamless and simple
+  - [GeoViews](http://geo.holoviews.org/) - Library that makes it easy to explore and visualize geographical, meteorological, and oceanographic datasets, such as those used in weather, climate, and remote sensing research
+  - [Datashader](https://github.com/pyviz/datashader) - graphics pipeline system for creating meaningful representations of large datasets quickly and flexibly
+  - [Panel](https://panel.pyviz.org/) - Create custom interactive web apps and dashboards by connecting user-defined widgets to plots, images, tables, or text
 - [EarthSim](https://earthsim.pyviz.org/) - ![Python](media/icon/python.png) 
 Tools for working with and visualizing environmental simulations
 
