@@ -82,8 +82,9 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ### Visualization
 
-| ▲ [Top](#awesome-open-geoscience) |
-| --- |
+- [PyViz](http://pyviz.org/) - ![Python](media/icon/python.png) A coordinated effort to make data visualization in Python easier to use, easier to learn, and more powerful
+- [EarthSim](https://earthsim.pyviz.org/) - ![Python](media/icon/python.png) 
+Tools for working with and visualizing environmental simulations
 
 ## Data Repositories
 
