@@ -123,7 +123,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 | --- |
 
 - [geopandas](http://geopandas.org/) - ![Python](media/icon/python.png) Spatial GIS operations on geometric types. 
-- [salem](https://salem.readthedocs.ioen/latest/) - ![Python](media/icon/python.png) Adds geolocalised subsetting, masking, and plotting operations to xarray's data structures via accessors
+- [salem](https://salem.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Adds geolocalised subsetting, masking, and plotting operations to xarray's data structures via accessors
 - [Regionmask](https://regionmask.readthedocs.io/en/stable/) - ![Python](media/icon/python.png) plotting and creation of masks of spatial regions
 - [xshape](https://xshape.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Tools for working with shapefiles, topographies, and polygons in xarray
 - [Collocate](https://github.com/cistools/collocate) - ![Python](media/icon/python.png) Collocate xarray trajectories in arbitrary physical dimensions
