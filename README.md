@@ -98,9 +98,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ## Tutorials and Cheat Sheets
 
-
-| ▲ [Top](#awesome-open-geoscience) |
-| --- |
+- [Pangeo Tutorial at Fall AGU 2018](https://github.com/pangeo-data/pangeo-tutorial-agu-2018/blob/master/README.md) - Tutorial covering the basic Pangeo framework, including Dask, Xarray and JupyterHub
 
 ## Miscellaneous
 
