@@ -87,8 +87,8 @@ While packages are not technically specific to AOCH science, they are so essenti
   - [GeoViews](http://geo.holoviews.org/) - Library that makes it easy to explore and visualize geographical, meteorological, and oceanographic datasets, such as those used in weather, climate, and remote sensing research
   - [Datashader](https://github.com/pyviz/datashader) - graphics pipeline system for creating meaningful representations of large datasets quickly and flexibly
   - [Panel](https://panel.pyviz.org/) - Create custom interactive web apps and dashboards by connecting user-defined widgets to plots, images, tables, or text
-- [EarthSim](https://earthsim.pyviz.org/) - ![Python](media/icon/python.png) 
-Tools for working with and visualizing environmental simulations
+  - [hvPlot](https://hvplot.pyviz.org/) - A high-level plotting API for the PyData ecosystem built on HoloViews
+- [EarthSim](https://earthsim.pyviz.org/) - Tools for working with and visualizing environmental simulations
 
 ## Data Repositories
 
