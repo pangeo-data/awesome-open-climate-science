@@ -150,8 +150,13 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ### Visualization
 
-| ▲ [Top](#awesome-open-geoscience) |
-| --- |
+- [PyViz](http://pyviz.org/) - ![Python](media/icon/python.png) A coordinated effort to make data visualization in Python easier to use, easier to learn, and more powerful. Sub-components include:
+  - [HoloViews](http://holoviews.org/) - Library designed to make data analysis and visualization seamless and simple
+  - [GeoViews](http://geoviews.org/) - Library that makes it easy to explore and visualize geographical, meteorological, and oceanographic datasets, such as those used in weather, climate, and remote sensing research
+  - [Datashader](https://github.com/pyviz/datashader) - graphics pipeline system for creating meaningful representations of large datasets quickly and flexibly
+  - [Panel](https://panel.pyviz.org/) - Create custom interactive web apps and dashboards by connecting user-defined widgets to plots, images, tables, or text
+  - [hvPlot](https://hvplot.pyviz.org/) - A high-level plotting API for the PyData ecosystem built on HoloViews
+- [EarthSim](https://earthsim.pyviz.org/) - Tools for working with and visualizing environmental simulations
 
 - [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) - ![Python](media/icon/python.png) Easy cartographic (maps) data visualization.
 - [Geoviews](http://geo.holoviews.org/) - ![Python](media/icon/python.png) Explore and visualize geographic data using HoloViews. 
@@ -164,9 +169,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ## Tutorials and Cheat Sheets
 
-
-| ▲ [Top](#awesome-open-geoscience) |
-| --- |
+- [Pangeo Tutorial at Fall AGU 2018](https://github.com/pangeo-data/pangeo-tutorial-agu-2018/blob/master/README.md) - Tutorial covering the basic Pangeo framework, including Dask, Xarray and JupyterHub
 
 ## Miscellaneous
 
