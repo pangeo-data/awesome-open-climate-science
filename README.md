@@ -33,7 +33,8 @@ Don't hesitate to add your favorite packages by making a [pull request]
     - [Simulation](#simulation)
     - [Visualization](#visualization)
   - [Data Repositories](#data-repositories)
-  - [Tutorials and Cheat Sheets](#tutorials-and-cheat-sheets)
+  - [Tutorials](#tutorials)
+  - [Cheat Sheets](#cheat-sheets)
   - [Miscellaneous](#miscellaneous)
   - [How to Contribute](#how-to-contribute)
   - [License](#license)
@@ -167,9 +168,11 @@ While packages are not technically specific to AOCH science, they are so essenti
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
 
-## Tutorials and Cheat Sheets
+## Tutorials
 
 - [Pangeo Tutorial at Fall AGU 2018](https://github.com/pangeo-data/pangeo-tutorial-agu-2018/blob/master/README.md) - Tutorial covering the basic Pangeo framework, including Dask, Xarray and JupyterHub
+- [Pangeo SEA Tutorial](https://github.com/pangeo-data/pangeo-tutorial-sea-2018/blob/master/README.md) - Tutorial for folks working on the NCAR Cheyenne Supercomputer
+## Cheat Sheets
 
 ## Miscellaneous
 
