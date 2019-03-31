@@ -148,6 +148,8 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 - Do we list all the open source climate model codes? Are they awesome enough?
 - [xarray-simlab](https://xarray-simlab.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) xarray extension for computer model simulations
+- [MITgcm](https://mitgcm.readthedocs.io/en/latest/) - ![Fortran](media/icon/fortran.png) MIT General Circulation Model
+- [CLIMA](https://github.com/climate-machine/CLIMA) - ![Julia](media/icon/julia.png) new climate model by the Climate Machine project
 
 ### Visualization
 
