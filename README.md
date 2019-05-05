@@ -128,6 +128,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [Regionmask](https://regionmask.readthedocs.io/en/stable/) - ![Python](media/icon/python.png) plotting and creation of masks of spatial regions
 - [xshape](https://xshape.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Tools for working with shapefiles, topographies, and polygons in xarray
 - [Collocate](https://github.com/cistools/collocate) - ![Python](media/icon/python.png) Collocate xarray trajectories in arbitrary physical dimensions
+- [QGIS](https://qgis.org/) - ![C++](media/icon/cplusplus.png) GIS platform to visualize, manage, edit, analyse data, and compose printable maps
 
 ### Data Storage
 
