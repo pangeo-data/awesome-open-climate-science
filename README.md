@@ -164,6 +164,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ## Data Repositories
 
+- [Quantarctica](http://quantarctica.npolar.no/data-catalog/) - user-configurable [QGIS](#gis) basemap for Antarctica with high-quality, peer-reviewed, free and open Antarctic scientific data
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
