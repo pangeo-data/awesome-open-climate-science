@@ -137,9 +137,9 @@ While packages are not technically specific to AOCH science, they are so essenti
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
 
-- [netCDF](https://www.unidata.ucar.edu/software/netcdf/) - NetCDF (Network Common Data Form) is a set of interfaces for array-oriented data access and a freely distributed collection of data access libraries for C, Fortran, C++, Java, Python, and other languages
-- [HDF5](https://www.hdfgroup.org/solutions/hdf5/) - HDF5 is a high-performance data management data storage format. HDF interfaces are available in C, Fortran, C++, Java, Python, and other languages
-- [Zarr](https://zarr.readthedocs.io/en/stable/index.html) - chunked, compressed, N-dimensional arrays.
+- [netCDF](https://www.unidata.ucar.edu/software/netcdf/) - ![Python](media/icon/python.png) ![C++](media/icon/cplusplus.png) ![C](media/icon/c.png) ![Java](media/icon/java.png) ![Fortran](media/icon/fortran.png) NetCDF (Network Common Data Form) is a set of interfaces for array-oriented data access and a freely distributed collection of data access libraries for C, Fortran, C++, Java, Python, and other languages
+- [HDF5](https://www.hdfgroup.org/solutions/hdf5/) - ![Python](media/icon/python.png) ![C++](media/icon/cplusplus.png) ![C](media/icon/c.png) ![Java](media/icon/java.png) ![Fortran](media/icon/fortran.png) HDF5 is a high-performance data management data storage format. HDF interfaces are available in C, Fortran, C++, Java, Python, and other languages
+- [Zarr](https://zarr.readthedocs.io/en/stable/index.html) - ![Pyton](media/icon/python.png) chunked, compressed, N-dimensional arrays.
 - [xmitgcm](https://xmitgcm.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Read MITgcm binary MDS files into xarray data structures.
 - [xbpch](https://github.com/darothen/xbpch) - ![Python](media/icon/python.png) Xarray interface for bpch files
 - [PyGDX](https://pygdx.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Access data stored in GAMS Data eXchange (GDX) files
@@ -155,12 +155,12 @@ While packages are not technically specific to AOCH science, they are so essenti
 ### Visualization
 
 - [PyViz](http://pyviz.org/) - ![Python](media/icon/python.png) A coordinated effort to make data visualization in Python easier to use, easier to learn, and more powerful. Sub-components include:
-  - [HoloViews](http://holoviews.org/) - Library designed to make data analysis and visualization seamless and simple
-  - [GeoViews](http://geoviews.org/) - Library that makes it easy to explore and visualize geographical, meteorological, and oceanographic datasets, such as those used in weather, climate, and remote sensing research
-  - [Datashader](https://github.com/pyviz/datashader) - graphics pipeline system for creating meaningful representations of large datasets quickly and flexibly
-  - [Panel](https://panel.pyviz.org/) - Create custom interactive web apps and dashboards by connecting user-defined widgets to plots, images, tables, or text
-  - [hvPlot](https://hvplot.pyviz.org/) - A high-level plotting API for the PyData ecosystem built on HoloViews
-- [EarthSim](https://earthsim.pyviz.org/) - Tools for working with and visualizing environmental simulations
+  - [HoloViews](http://holoviews.org/) - ![Python](media/icon/python.png) Library designed to make data analysis and visualization seamless and simple
+  - [GeoViews](http://geoviews.org/) - ![Python](media/icon/python.png) Library that makes it easy to explore and visualize geographical, meteorological, and oceanographic datasets, such as those used in weather, climate, and remote sensing research
+  - [Datashader](https://github.com/pyviz/datashader) - ![Python](media/icon/python.png) graphics pipeline system for creating meaningful representations of large datasets quickly and flexibly
+  - [Panel](https://panel.pyviz.org/) - ![Python](media/icon/python.png) Create custom interactive web apps and dashboards by connecting user-defined widgets to plots, images, tables, or text
+  - [hvPlot](https://hvplot.pyviz.org/) - ![Python](media/icon/python.png) A high-level plotting API for the PyData ecosystem built on HoloViews
+- [EarthSim](https://earthsim.pyviz.org/) -![Python](media/icon/python.png) Tools for working with and visualizing environmental simulations
 
 - [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) - ![Python](media/icon/python.png) Easy cartographic (maps) data visualization.
 - [Geoviews](http://geo.holoviews.org/) - ![Python](media/icon/python.png) Explore and visualize geographic data using HoloViews. 
