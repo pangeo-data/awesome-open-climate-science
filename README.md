@@ -54,7 +54,6 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 - [Pandas](https://pandas.pydata.org/) - ![Python](media/icon/python.png) Data structures and computational tools for working with tabular datasets
 - [Xarray](http://xarray.pydata.org/en/latest/) - ![Python](media/icon/python.png) Data structures and computational tools for multidimensional arrays, inspired by netCDF data model
-- [Numpy](https://numpy.org/) - ![Python](media/icon/python.png) Works closely with pandas and a dependency for many of its functions. Multidemensional array manipulation library.
 
 ### Frameworks
 
@@ -114,6 +113,14 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 
 - [OGGM](https://oggm.org/) - ![Python](media/icon/python.png) Open Global Glacier Model
+
+### Hydrology
+
+| ▲ [Top](#awesome-open-geoscience) |
+| --------------------------------- |
+
+
+- [AMBHAS](http://ambhas.com/tools.php) - ![Python](media/icon/python.png) hydrological library in Python
 
 ### Spatiotemporal Statistics
 
