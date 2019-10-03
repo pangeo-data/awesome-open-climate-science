@@ -131,6 +131,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [xshape](https://xshape.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Tools for working with shapefiles, topographies, and polygons in xarray
 - [Collocate](https://github.com/cistools/collocate) - ![Python](media/icon/python.png) Collocate xarray trajectories in arbitrary physical dimensions
 - [QGIS](https://qgis.org/) - ![C++](media/icon/cplusplus.png) GIS platform to visualize, manage, edit, analyse data, and compose printable maps
+- [GeoPHP](https://geophp.net/) - ![PHP](media/icon/php.png) The world's most popular geospatial library for PHP that works with WKT (including EWKT), WKB (including EWKB), GeoJSON, KML, GPX, GeoRSS and more
 
 ### Data Storage
 
