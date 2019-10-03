@@ -125,12 +125,13 @@ While packages are not technically specific to AOCH science, they are so essenti
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
 
-- [geopandas](http://geopandas.org/) - ![Python](media/icon/python.png) Spatial GIS operations on geometric types. 
+- [geopandas](http://geopandas.org/) - ![Python](media/icon/python.png) Spatial GIS operations on geometric types.
 - [salem](https://salem.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Adds geolocalised subsetting, masking, and plotting operations to xarray's data structures via accessors
 - [Regionmask](https://regionmask.readthedocs.io/en/stable/) - ![Python](media/icon/python.png) plotting and creation of masks of spatial regions
 - [xshape](https://xshape.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Tools for working with shapefiles, topographies, and polygons in xarray
 - [Collocate](https://github.com/cistools/collocate) - ![Python](media/icon/python.png) Collocate xarray trajectories in arbitrary physical dimensions
 - [QGIS](https://qgis.org/) - ![C++](media/icon/cplusplus.png) GIS platform to visualize, manage, edit, analyse data, and compose printable maps
+- [GeoPHP](https://geophp.net/) - ![PHP](media/icon/php.png) The world's most popular geospatial library for PHP that works with WKT (including EWKT), WKB (including EWKB), GeoJSON, KML, GPX, GeoRSS and more
 
 ### Data Storage
 
@@ -163,7 +164,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [EarthSim](https://earthsim.pyviz.org/) - Tools for working with and visualizing environmental simulations
 
 - [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) - ![Python](media/icon/python.png) Easy cartographic (maps) data visualization.
-- [Geoviews](http://geo.holoviews.org/) - ![Python](media/icon/python.png) Explore and visualize geographic data using HoloViews. 
+- [Geoviews](http://geo.holoviews.org/) - ![Python](media/icon/python.png) Explore and visualize geographic data using HoloViews.
 
 ## Data Repositories
 
