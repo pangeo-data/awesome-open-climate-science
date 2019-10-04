@@ -173,6 +173,8 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 - [Common Metadata Repository](http://cmr.earthdata.nasa.gov/search) - Search API for NASA's remote-sensed earth science metadata
 
+- A real-time visualisation of the CO2 emissions of electricity consumption https://www.electricitymap.org
+
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
 
