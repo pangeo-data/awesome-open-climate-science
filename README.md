@@ -97,6 +97,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 - [SatPy](https://satpy.readthedocs.io/en/latest/)  - ![Python](media/icon/python.png) Read and manipulate meteorological remote sensing data and write it to various image and data file formats
 - [Open Data Cube](https://www.opendatacube.org/) - ![Python](media/icon/python.png) Analysis toolkit for continental scale Earth Observation data from satellites
+- [Earthdata Search](https://search.earthdata.nasa.gov/) - User interface for searching against the CMR (Common Metadata Repository). Supports data download, visualization, and subsetting in some cases.
 
 ### Glaciology
 
