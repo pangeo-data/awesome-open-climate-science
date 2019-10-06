@@ -178,6 +178,8 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [Pangeo SEA Tutorial](https://github.com/pangeo-data/pangeo-tutorial-sea-2018/blob/master/README.md) - Tutorial for folks working on the NCAR Cheyenne Supercomputer
 ## Cheat Sheets
 
+- [Geopandas, Shapely and Geopy](https://github.com/prasunkgupta/python-cheat-sheets/blob/master/geopandas-shapely-geopy.ipynb) - Demos, notebooks and overviews on getting started with basics of the three libraries
+
 ## Miscellaneous
 
 | ▲ [Top](#awesome-open-geoscience) |
