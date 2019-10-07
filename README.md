@@ -89,6 +89,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [Pangaea:](https://pangaea.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) xarray extension for gridded land surface & weather model output
 - [xgcm](https://xgcm.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Extends the xarray data model to understand finite volume grid cells (common in General Circulation Models) and provides interpolation and difference operations for such grids
 - [OpenClimateGIS](https://www.earthsystemcog.org/projects/openclimategis/) - ![Python](media/icon/python.png) Geospatial manipulation, subsetting, computation, and translation of spatiotemporal climate data
+- [pyOWM](https://github.com/csparpa/pyowm) - ![Python](media/icon/python.png) PyOWM is a client Python wrapper library for OpenWeatherMap (OWM) web APIs
 
 ### Remote Sensing
 
