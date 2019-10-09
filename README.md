@@ -47,7 +47,7 @@ Awesome software projects sub-categorized by focus.
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
 
-While packages are not technically specific to AOCH science, they are so essential for scientific workflows that we can't not include them
+While packages are not technically specific to AOCH science, they are so essential for scientific workflows that we can't include them
 
 - [Pandas](https://pandas.pydata.org/) - ![Python](media/icon/python.png) Data structures and computational tools for working with tabular datasets
 - [Xarray](http://xarray.pydata.org/en/latest/) - ![Python](media/icon/python.png) Data structures and computational tools for multidimensional arrays, inspired by netCDF data model
