@@ -163,15 +163,17 @@ While packages are not technically specific to AOCH science, they are so essenti
   - [Panel](https://panel.pyviz.org/) - ![Python](media/icon/python.png) Create custom interactive web apps and dashboards by connecting user-defined widgets to plots, images, tables, or text
   - [hvPlot](https://hvplot.pyviz.org/) - ![Python](media/icon/python.png) A high-level plotting API for the PyData ecosystem built on HoloViews
 - [EarthSim](https://earthsim.pyviz.org/) -![Python](media/icon/python.png) Tools for working with and visualizing environmental simulations
-
 - [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) - ![Python](media/icon/python.png) Easy cartographic (maps) data visualization.
 - [Geoviews](http://geo.holoviews.org/) - ![Python](media/icon/python.png) Explore and visualize geographic data using HoloViews. 
+- [Seaborn](https://seaborn.pydata.org/) - ![Python](media/icon/python.png) Statistical Data Visualization based on Python's Matplotlib.
 
 ## Data Repositories
 
 - [Quantarctica](http://quantarctica.npolar.no/data-catalog/) - user-configurable [QGIS](#gis) basemap for Antarctica with high-quality, peer-reviewed, free and open Antarctic scientific data
 
 - [Common Metadata Repository](http://cmr.earthdata.nasa.gov/search) - Search API for NASA's remote-sensed earth science metadata
+
+- [Apache Open Climate Workbench](https://climate.apache.org/api/current/index.html) - A suit of tools to make Climate Scientists lives easier including loading and manipulating datasets, running evaluations, and plotting results.
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
