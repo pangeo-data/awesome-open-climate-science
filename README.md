@@ -185,6 +185,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 ## Miscellaneous
 
 | ▲ [Top](#awesome-open-geoscience) |
+- [R PROGRAMMING FOR CLIMATEDATA ANALYSIS AND VISUALIZATION](http://scrippsscholars.ucsd.edu/s4shen/files/r-textbysamshenjune2017.pdf) - This book is the instruction manual used for a short-course on R programming for ClimateData Analysis and Visualization first taught at the U.S. National Center for EnvironmentalInformation (NCEI), Asheville,  North Carolina,  30 May- 2 June 2017.
 | --- |
 
 ## How to Contribute
