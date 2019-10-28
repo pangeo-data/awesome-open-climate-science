@@ -187,6 +187,8 @@ While packages are not technically specific to AOCH science, they are so essenti
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
 
+- [LF Energy](https://www.lfenergy.org) - A vendor-neutral home, LF Energy focuses on building shared open source infrastructure to deliver unprecedented innovation in renewable energy, power electronics, electric mobility, and more.
+
 ## How to Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first
