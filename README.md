@@ -180,6 +180,8 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 - [Pangeo Tutorial at Fall AGU 2018](https://github.com/pangeo-data/pangeo-tutorial-agu-2018/blob/master/README.md) - Tutorial covering the basic Pangeo framework, including Dask, Xarray and JupyterHub
 - [Pangeo SEA Tutorial](https://github.com/pangeo-data/pangeo-tutorial-sea-2018/blob/master/README.md) - Tutorial for folks working on the NCAR Cheyenne Supercomputer
+- [Automating GIS-processes](https://automating-gis-processes.github.io/2018/) - Course to learn how to do different GIS-related tasks in Python programming language
+
 ## Cheat Sheets
 
 ## Miscellaneous
