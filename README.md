@@ -51,6 +51,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 - [Pandas](https://pandas.pydata.org/) - ![Python](media/icon/python.png) Data structures and computational tools for working with tabular datasets
 - [Xarray](http://xarray.pydata.org/en/latest/) - ![Python](media/icon/python.png) Data structures and computational tools for multidimensional arrays, inspired by netCDF data model
+- [Numpy](https://numpy.org/) - ![Python](media/icon/python.png) NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 
 ### Frameworks
 
