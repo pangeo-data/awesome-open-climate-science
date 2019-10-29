@@ -12,7 +12,7 @@ Packages from atmospheric science, oceanography, climate science, and hydrology 
 
 In accordance with the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md),
 we add awesome repositories. We are wide open to [contributions](contributing.md) of course!
-Don't hesitate to add your favorite packages by making a [pull request]
+Don't hesitate to add your favorite packages by making a [pull request]!
 
 ## Contents
 
