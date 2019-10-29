@@ -145,6 +145,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [xmitgcm](https://xmitgcm.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Read MITgcm binary MDS files into xarray data structures.
 - [xbpch](https://github.com/darothen/xbpch) - ![Python](media/icon/python.png) Xarray interface for bpch files
 - [PyGDX](https://pygdx.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Access data stored in GAMS Data eXchange (GDX) files
+- [netcdf4-python](http://unidata.github.io/netcdf4-python/netCDF4/index.html) - ![Python](media/icon/python.png) Python/numpy interface to the netCDF C library
 
 ### Simulation
 
