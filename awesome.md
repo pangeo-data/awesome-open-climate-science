@@ -8,7 +8,7 @@ But **what is awesome?**
 
 Research if the stuff you're including is actually awesome. Only put stuff on the list that you or another contributor can personally recommend. You should rather leave stuff out than include too much.
 
-## Awesome badge
+### Awesome badge
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
