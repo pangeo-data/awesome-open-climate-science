@@ -39,7 +39,7 @@ Don't hesitate to add your favorite packages by making a [pull request]
   - [How to Contribute](#how-to-contribute)
   - [License](#license)
 
-## Software
+### Software
 Awesome software projects sub-categorized by focus.
 
 ### General Purpose
@@ -164,19 +164,19 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) - ![Python](media/icon/python.png) Easy cartographic (maps) data visualization.
 - [Geoviews](http://geo.holoviews.org/) - ![Python](media/icon/python.png) Explore and visualize geographic data using HoloViews. 
 
-## Data Repositories
+### Data Repositories
 
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
 
-## Tutorials
+### Tutorials
 
 - [Pangeo Tutorial at Fall AGU 2018](https://github.com/pangeo-data/pangeo-tutorial-agu-2018/blob/master/README.md) - Tutorial covering the basic Pangeo framework, including Dask, Xarray and JupyterHub
 - [Pangeo SEA Tutorial](https://github.com/pangeo-data/pangeo-tutorial-sea-2018/blob/master/README.md) - Tutorial for folks working on the NCAR Cheyenne Supercomputer
-## Cheat Sheets
+### Cheat Sheets
 
-## Miscellaneous
+### Miscellaneous
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
