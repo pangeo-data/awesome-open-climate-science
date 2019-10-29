@@ -1,4 +1,4 @@
-# Awesome Open Atmospheric, Ocean, and Climate Science
+# Awesome Open Atmospheric, Ocean, and Climate Science!
 > Atmospheric, ocean, and climate science are [awesome](awesome.md).
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.com/pangeo-data/awesome-open-climate-science.svg?branch=master)](https://travis-ci.com/pangeo-data/awesome-open-climate-science) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/pangeo-data/awesome-open-climate-science.svg?label=contributions)](https://github.com/pangeo-data/awesome-open-climate-science/pulls) [![Commits](https://img.shields.io/github/last-commit/pangeo-data/awesome-open-climate-science.svg?label=last%20contribution)](https://github.com/pangeo-data/awesome-open-climate-science/commits/master)  [![License](https://img.shields.io/github/license/pangeo-data/awesome-open-climate-science.svg)](https://github.com/pangeo-data/awesome-open-climate-science/blob/master/LICENSE)  
