@@ -44,7 +44,7 @@ Awesome software projects sub-categorized by focus.
 
 ### General Purpose
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 While packages are not technically specific to AOCH science, they are so essential for scientific workflows that we can't not include them
@@ -55,7 +55,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ### Frameworks
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - [Iris](https://scitools.org.uk/iris/docs/latest/) - ![Python](media/icon/python.png) Expressive analysis and visualization of multi-dimensional datasets based on the CF conventions
@@ -63,7 +63,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ### Meteorology
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - [MetPy](https://unidata.github.io/MetPy/) - ![Python](media/icon/python.png) Collection of tools for reading, visualizing, and performing calculations with weather data
@@ -72,7 +72,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ### Oceanography
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - [GSW-Python](https://github.com/TEOS-10/GSW-Python) - ![Python](media/icon/python.png) Thermodynamic equation of state for seawater
@@ -81,7 +81,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ### Climate
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - [climlab](https://climlab.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Process-oriented climate modeling
@@ -93,7 +93,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ### Remote Sensing
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - [SatPy](https://satpy.readthedocs.io/en/latest/)  - ![Python](media/icon/python.png) Read and manipulate meteorological remote sensing data and write it to various image and data file formats
@@ -103,21 +103,21 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ### Glaciology
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - [OGGM](https://oggm.org/) - ![Python](media/icon/python.png) Open Global Glacier Model
 
 ### Spatiotemporal Statistics
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - [EOFs](https://ajdawson.github.io/eofs/) - ![Python](media/icon/python.png) EOF analysis
 
 ### Regridding
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - [xESMF](https://xesmf.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Regridding for numpy and Xarray datasets based on the Earth Systems Modeling Framework (ESMF) library
@@ -125,7 +125,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ### GIS
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - [geopandas](http://geopandas.org/) - ![Python](media/icon/python.png) Spatial GIS operations on geometric types. 
@@ -138,7 +138,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ### Data Storage
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - [netCDF](https://www.unidata.ucar.edu/software/netcdf/) - ![Python](media/icon/python.png) ![C++](media/icon/cplusplus.png) ![C](media/icon/c.png) ![Java](media/icon/java.png) ![Fortran](media/icon/fortran.png) NetCDF (Network Common Data Form) is a set of interfaces for array-oriented data access and a freely distributed collection of data access libraries for C, Fortran, C++, Java, Python, and other languages
@@ -150,7 +150,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ### Simulation
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - Do we list all the open source climate model codes? Are they awesome enough?
@@ -175,7 +175,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 - [Common Metadata Repository](http://cmr.earthdata.nasa.gov/search) - Search API for NASA's remote-sensed earth science metadata
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 ## Tutorials
@@ -186,14 +186,14 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ## Miscellaneous
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 ## How to Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 ## License
