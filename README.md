@@ -116,6 +116,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 | --- |
 
 - [EOFs](https://ajdawson.github.io/eofs/) - ![Python](media/icon/python.png) EOF analysis
+- [rasterstats](https://pythonhosted.org/rasterstats/) - ![Python](media/icon/python.png) summarizing geospatial raster datasets based on vector geometries
 
 ### Regridding
 
