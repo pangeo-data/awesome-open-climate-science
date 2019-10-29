@@ -45,7 +45,7 @@ Awesome software projects sub-categorized by focus.
 ### General Purpose
 
 | ▲ [Top](#awesome-open-geoscience) |
-| --- |
+| ---- |
 
 While packages are not technically specific to AOCH science, they are so essential for scientific workflows that we can't not include them
 
@@ -65,7 +65,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
 
-- [MetPy](https://unidata.github.io/MetPy/) - ![Python](media/icon/python.png) Collection of tools for reading, visualizing, and performing calculations with weather data
+- [MetPy](https://unidata.github.io/MetPy/) - ![Python](media/icon/python.png) Collection of tools for reading, visualizing, and performing calculations with the weather data
 - [windspharm](https://ajdawson.github.io/windspharm/index.html) - ![Python](media/icon/python.png) Spherical harmonic wind analysis
 - [wrf-python](https://wrf-python.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) A collection of diagnostic and interpolation routines for use with output of the Weather Research and Forecasting (WRF-ARW) Model
 
