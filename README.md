@@ -150,6 +150,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [xmitgcm](https://xmitgcm.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Read MITgcm binary MDS files into xarray data structures.
 - [xbpch](https://github.com/darothen/xbpch) - ![Python](media/icon/python.png) Xarray interface for bpch files
 - [PyGDX](https://pygdx.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Access data stored in GAMS Data eXchange (GDX) files
+- [rasterio](https://rasterio.readthedocs.io/en/stable/) - ![Python](media/icon/python.png) Reads and writes GeoTIFF and provides a Python API based on Numpy N-dimensional arrays and GeoJSON
 
 ### Simulation
 
