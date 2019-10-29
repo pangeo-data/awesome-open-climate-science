@@ -17,7 +17,7 @@ You'll need a [GitHub account](https://github.com/join)!
 5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
 6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
-## Updating your PR
+## Updating your PR!
 
 A lot of times, making a PR adhere to the standards above can be difficult.
 If the maintainers notice anything that we'd like changed, we'll ask you to
