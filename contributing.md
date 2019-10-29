@@ -8,7 +8,7 @@ project you agree to abide by its terms.
 
 If you have something awesome to contribute to an awesome list, this is how you do it.
 
-You'll need a [GitHub account](https://github.com/join)!
+You'll need a [GitHub account](https://github.com/join)!!
 
 1. Access the awesome list's GitHub page. For example: https://github.com/sindresorhus/awesome
 2. Click on the `README.md` file: ![Step 2 Click on README.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
