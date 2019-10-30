@@ -7,7 +7,7 @@ Project website/repository:
 
 License:
 
-<!-- If adding a project to the list, make sure it fulfills the following criteria. -->
+<!!! If adding a project to the list, make sure it fulfills the following criteria. !!!>
 Checklist for new projects:
 
 - [ ] The project is [open-source](https://opensource.org/licenses/alphabetical) and accessible.
