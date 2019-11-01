@@ -44,17 +44,18 @@ Awesome software projects sub-categorized by focus.
 
 ### General Purpose
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 While packages are not technically specific to AOCH science, they are so essential for scientific workflows that we can't not include them
 
 - [Pandas](https://pandas.pydata.org/) - ![Python](media/icon/python.png) Data structures and computational tools for working with tabular datasets
 - [Xarray](http://xarray.pydata.org/en/latest/) - ![Python](media/icon/python.png) Data structures and computational tools for multidimensional arrays, inspired by netCDF data model
+- [Numpy](https://numpy.org/) - ![Python](media/icon/python.png) NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 
 ### Frameworks
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - [Iris](https://scitools.org.uk/iris/docs/latest/) - ![Python](media/icon/python.png) Expressive analysis and visualization of multi-dimensional datasets based on the CF conventions
@@ -62,7 +63,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ### Meteorology
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - [MetPy](https://unidata.github.io/MetPy/) - ![Python](media/icon/python.png) Collection of tools for reading, visualizing, and performing calculations with weather data
@@ -71,51 +72,56 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ### Oceanography
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - [GSW-Python](https://github.com/TEOS-10/GSW-Python) - ![Python](media/icon/python.png) Thermodynamic equation of state for seawater
 - [WAVEWATCH III](https://github.com/NOAA-EMC/WW3) - ![Fortran](media/icon/fortran.png) NOAA's Ocean wave model
 - [UMWM](https://github.com/umwm/umwm) - ![Fortran](media/icon/fortran.png) University of Miami's wave model
+- [rnoaa](https://github.com/ropensci/rnoaa) - ![R](media/icon/r.png) An R interface to many NOAA data sources
 
 ### Climate
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - [climlab](https://climlab.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Process-oriented climate modeling
 - [aospy](https://aospy.readthedocs.io/en/stable/) - ![Python](media/icon/python.png) Automated analysis and management of gridded climate data
 - [Oocgcm](https://oocgcm.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Analysis of large gridded geophysical datasets
-- [Pangaea:](https://pangaea.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) xarray extension for gridded land surface & weather model output
+- [Pangaea](https://pangaea.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) xarray extension for gridded land surface & weather model output
 - [xgcm](https://xgcm.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Extends the xarray data model to understand finite volume grid cells (common in General Circulation Models) and provides interpolation and difference operations for such grids
 - [OpenClimateGIS](https://www.earthsystemcog.org/projects/openclimategis/) - ![Python](media/icon/python.png) Geospatial manipulation, subsetting, computation, and translation of spatiotemporal climate data
+- [climpred](https://climpred.readthedocs.io/en/stable/) – ![Python](media/icon/python.png) xarray wrapper for analysis of ensemble forecast models for climate prediction
+- [pyOWM](https://github.com/csparpa/pyowm) - ![Python](media/icon/python.png) PyOWM is a client Python wrapper library for OpenWeatherMap (OWM) web APIs
 
 ### Remote Sensing
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - [SatPy](https://satpy.readthedocs.io/en/latest/)  - ![Python](media/icon/python.png) Read and manipulate meteorological remote sensing data and write it to various image and data file formats
 - [Open Data Cube](https://www.opendatacube.org/) - ![Python](media/icon/python.png) Analysis toolkit for continental scale Earth Observation data from satellites
 - [Earthdata Search](https://search.earthdata.nasa.gov/) - User interface for searching against the CMR (Common Metadata Repository). Supports data download, visualization, and subsetting in some cases.
+- [Sentinelsat](https://github.com/sentinelsat/sentinelsat) - ![Python](media/icon/python.png) Search and download data from the European Copernicus Sentinel satellites
 
 ### Glaciology
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - [OGGM](https://oggm.org/) - ![Python](media/icon/python.png) Open Global Glacier Model
 
 ### Spatiotemporal Statistics
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - [EOFs](https://ajdawson.github.io/eofs/) - ![Python](media/icon/python.png) EOF analysis
+- [rasterstats](https://pythonhosted.org/rasterstats/) - ![Python](media/icon/python.png) summarizing geospatial raster datasets based on vector geometries
 
 ### Regridding
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - [xESMF](https://xesmf.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Regridding for numpy and Xarray datasets based on the Earth Systems Modeling Framework (ESMF) library
@@ -123,7 +129,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ### GIS
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - [geopandas](http://geopandas.org/) - ![Python](media/icon/python.png) Spatial GIS operations on geometric types. 
@@ -136,7 +142,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ### Data Storage
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - [netCDF](https://www.unidata.ucar.edu/software/netcdf/) - ![Python](media/icon/python.png) ![C++](media/icon/cplusplus.png) ![C](media/icon/c.png) ![Java](media/icon/java.png) ![Fortran](media/icon/fortran.png) NetCDF (Network Common Data Form) is a set of interfaces for array-oriented data access and a freely distributed collection of data access libraries for C, Fortran, C++, Java, Python, and other languages
@@ -145,10 +151,12 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [xmitgcm](https://xmitgcm.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Read MITgcm binary MDS files into xarray data structures.
 - [xbpch](https://github.com/darothen/xbpch) - ![Python](media/icon/python.png) Xarray interface for bpch files
 - [PyGDX](https://pygdx.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) Access data stored in GAMS Data eXchange (GDX) files
+- [rasterio](https://rasterio.readthedocs.io/en/stable/) - ![Python](media/icon/python.png) Reads and writes GeoTIFF and provides a Python API based on Numpy N-dimensional arrays and GeoJSON
+- [netcdf4-python](http://unidata.github.io/netcdf4-python/netCDF4/index.html) - ![Python](media/icon/python.png) Python/numpy interface to the netCDF C library
 
 ### Simulation
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 - Do we list all the open source climate model codes? Are they awesome enough?
@@ -170,29 +178,35 @@ While packages are not technically specific to AOCH science, they are so essenti
 ## Data Repositories
 
 - [Quantarctica](http://quantarctica.npolar.no/data-catalog/) - user-configurable [QGIS](#gis) basemap for Antarctica with high-quality, peer-reviewed, free and open Antarctic scientific data
-
 - [Common Metadata Repository](http://cmr.earthdata.nasa.gov/search) - Search API for NASA's remote-sensed earth science metadata
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php?area=phys&sort=nameUp) – Popular hub for machine learning datasets, featuring "physical sciences" data on air quality, ozone level detection, greenhouse gas concentrations, aquatic toxicity, and more
 - [National Data Buoy Center](https://www.ndbc.noaa.gov/) - The premier source of meteorological and oceanographic measurements for the marine environment.
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 ## Tutorials
 
 - [Pangeo Tutorial at Fall AGU 2018](https://github.com/pangeo-data/pangeo-tutorial-agu-2018/blob/master/README.md) - Tutorial covering the basic Pangeo framework, including Dask, Xarray and JupyterHub
 - [Pangeo SEA Tutorial](https://github.com/pangeo-data/pangeo-tutorial-sea-2018/blob/master/README.md) - Tutorial for folks working on the NCAR Cheyenne Supercomputer
+- [Automating GIS-processes](https://automating-gis-processes.github.io/2018/) - Course to learn how to do different GIS-related tasks in Python programming language
+
 ## Cheat Sheets
+
+- [Geopandas, Shapely and Geopy](https://github.com/prasunkgupta/python-cheat-sheets/blob/master/geopandas-shapely-geopy.ipynb) - Demos, notebooks and overviews on getting started with basics of the three libraries
 
 ## Miscellaneous
 
-| ▲ [Top](#awesome-open-geoscience) |
+- [R Programming for Climatedata Analysis and Visualization](http://scrippsscholars.ucsd.edu/s4shen/files/r-textbysamshenjune2017.pdf) - This book is the instruction manual used for a short-course on R programming for ClimateData Analysis and Visualization.
+
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 ## How to Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
 
 ## License
