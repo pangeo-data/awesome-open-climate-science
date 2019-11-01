@@ -191,6 +191,8 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 ## Cheat Sheets
 
+- [Geopandas, Shapely and Geopy](https://github.com/prasunkgupta/python-cheat-sheets/blob/master/geopandas-shapely-geopy.ipynb) - Demos, notebooks and overviews on getting started with basics of the three libraries
+
 ## Miscellaneous
 
 - [R Programming for Climatedata Analysis and Visualization](http://scrippsscholars.ucsd.edu/s4shen/files/r-textbysamshenjune2017.pdf) - This book is the instruction manual used for a short-course on R programming for ClimateData Analysis and Visualization.
