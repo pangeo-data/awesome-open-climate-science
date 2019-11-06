@@ -79,6 +79,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [WAVEWATCH III](https://github.com/NOAA-EMC/WW3) - ![Fortran](media/icon/fortran.png) NOAA's Ocean wave model
 - [UMWM](https://github.com/umwm/umwm) - ![Fortran](media/icon/fortran.png) University of Miami's wave model
 - [rnoaa](https://github.com/ropensci/rnoaa) - ![R](media/icon/r.png) An R interface to many NOAA data sources
+- [pyoos](https://pypi.org/project/pyoos/) - ![Python](media/icon/python.png)  A Python library for collecting Met/Ocean observations
 
 ### Climate
 
