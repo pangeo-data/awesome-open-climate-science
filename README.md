@@ -60,6 +60,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 - [Iris](https://scitools.org.uk/iris/docs/latest/) - ![Python](media/icon/python.png) Expressive analysis and visualization of multi-dimensional datasets based on the CF conventions
 - [CDMS](https://cdms.readthedocs.io/en/latest/index.html) - ![Python](media/icon/python.png) Object-oriented data management system for multidimensional, gridded data used in climate analysis and simulation
+- [cf-python](https://ncas-cms.github.io/cf-python/) - ![Python](media/icon/python.png) An Earth science data analysis library that is built upon and extends the cfdm library.
 
 ### Meteorology
 
