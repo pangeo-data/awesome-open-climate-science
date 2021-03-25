@@ -52,6 +52,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [Pandas](https://pandas.pydata.org/) - ![Python](media/icon/python.png) Data structures and computational tools for working with tabular datasets
 - [Xarray](http://xarray.pydata.org/en/latest/) - ![Python](media/icon/python.png) Data structures and computational tools for multidimensional arrays, inspired by netCDF data model
 - [Numpy](https://numpy.org/) - ![Python](media/icon/python.png) NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+- [Matplotlib](https://matplotlib.org/) - ![Python](media/icon/python.org) Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Several other libraries, including many mentioned in the lists below, use Matplotlib by default under the hood for creating data visualizations.
 
 ### Frameworks
 
