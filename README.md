@@ -81,6 +81,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [UMWM](https://github.com/umwm/umwm) - ![Fortran](media/icon/fortran.png) University of Miami's wave model
 - [rnoaa](https://github.com/ropensci/rnoaa) - ![R](media/icon/r.png) An R interface to many NOAA data sources
 - [pyoos](https://pypi.org/project/pyoos/) - ![Python](media/icon/python.png)  A Python library for collecting Met/Ocean observations
+- [pyXpcm](https://github.com/obidam/pyxpcm) - ![Python](media/icon/python.png) A python library to create and work with ocean Profile Classification Models
 
 ### Climate
 
