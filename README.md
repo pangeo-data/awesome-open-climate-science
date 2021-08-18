@@ -142,6 +142,10 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [Collocate](https://github.com/cistools/collocate) - ![Python](media/icon/python.png) Collocate xarray trajectories in arbitrary physical dimensions
 - [QGIS](https://qgis.org/) - ![C++](media/icon/cplusplus.png) GIS platform to visualize, manage, edit, analyse data, and compose printable maps
 - [GeoPHP](https://geophp.net/) - ![PHP](media/icon/php.png) The world's most popular geospatial library for PHP that works with WKT (including EWKT), WKB (including EWKB), GeoJSON, KML, GPX, GeoRSS and more
+- [GDAL](https://gdal.org/) - ![C++](media/icon/cplusplus.png) ![C](media/icon/c.png) Geospatial Data Abstraction Library (GDAL) is a translator library for raster and vector geospatial data formats.
+- [rasterio](https://rasterio.readthedocs.io/en/stable/) - ![Python](media/icon/python.png) ![C++](media/icon/cplusplus.png) Rasterio employs GDAL under the hood for file I/O and raster formatting. Provides a high level api over GDAL.
+- [shapely](https://shapely.readthedocs.io/en/stable/manual.html) - ![Python](media/icon/python.png) Manipulation and analysis of geometric objects in the Cartesian plane.
+
 
 ### Data Storage
 
