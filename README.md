@@ -82,6 +82,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [rnoaa](https://github.com/ropensci/rnoaa) - ![R](media/icon/r.png) An R interface to many NOAA data sources
 - [pyoos](https://pypi.org/project/pyoos/) - ![Python](media/icon/python.png)  A Python library for collecting Met/Ocean observations
 - [PyCO2SYS](https://pyco2sys.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) A Python toolbox for solving the marine carbonate system and calculating related seawater properties
+- [VirtualShip](https://virtualship.oceanparcels.org/) - ![Python](media/icon/python.png) A Python tool to simulate and teach the planning, execution and analysis of ocean-based fieldwork
 
 ### Climate
 
