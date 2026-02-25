@@ -24,6 +24,7 @@ Don't hesitate to add your favorite packages by making a [pull request]
     - [Meteorology](#meteorology)
     - [Oceanography](#oceanography)
     - [Climate](#climate)
+    - [Agricultural Emissions & Land Use](#agricultural-emissions--land-use)
     - [Remote Sensing](#remote-sensing)
     - [Glaciology](#glaciology)
     - [Spatiotemporal Statistics](#spatiotemporal-statistics)
@@ -97,6 +98,20 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [OpenClimateGIS](https://www.earthsystemcog.org/projects/openclimategis/) - ![Python](media/icon/python.png) Geospatial manipulation, subsetting, computation, and translation of spatiotemporal climate data
 - [climpred](https://climpred.readthedocs.io/en/stable/) – ![Python](media/icon/python.png) xarray wrapper for analysis of ensemble forecast models for climate prediction
 - [pyOWM](https://github.com/csparpa/pyowm) - ![Python](media/icon/python.png) PyOWM is a client Python wrapper library for OpenWeatherMap (OWM) web APIs
+
+### Agricultural Emissions & Land Use
+
+| ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
+| --- |
+
+- [GLEAM](http://www.fao.org/gleam/en/) - FAO Global Livestock Environmental Assessment Model for quantifying greenhouse gas emissions and other environmental impacts of livestock supply chains
+- [EDGAR](https://edgar.jrc.ec.europa.eu/) - Emissions Database for Global Atmospheric Research, providing time series of anthropogenic greenhouse gas emissions including agricultural CH4 and N2O
+- [Global Forest Watch](https://www.globalforestwatch.org/) - Real-time monitoring platform for global deforestation and land-use change, powered by satellite data from the World Resources Institute
+- [MapBiomas](https://mapbiomas.org/) - Multi-institutional initiative producing annual land cover and land-use maps from Landsat imagery, with a focus on the Amazon and other South American biomes
+- [TRASE](https://www.trase.earth/) - Transparency for Sustainable Economies platform linking commodity supply chains to deforestation risk and other environmental impacts
+- [MethaneSAT](https://www.methanesat.org/) - Satellite mission providing high-resolution, wide-area methane emission measurements for identifying and quantifying sources across oil and gas, agriculture, and waste sectors
+- [EMIT](https://earth.jpl.nasa.gov/emit/) - NASA Earth Surface Mineral Dust Source Investigation, also providing high-resolution methane point-source detection from the International Space Station
+- [GAEZ](https://gaez.fao.org/) - FAO Global Agro-Ecological Zones framework for assessing agricultural resources, crop suitability, and land productivity under current and future climate scenarios
 
 ### Remote Sensing
 
