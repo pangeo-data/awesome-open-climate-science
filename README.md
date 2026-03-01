@@ -185,6 +185,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [Common Metadata Repository](http://cmr.earthdata.nasa.gov/search) - Search API for NASA's remote-sensed earth science metadata
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php?area=phys&sort=nameUp) – Popular hub for machine learning datasets, featuring "physical sciences" data on air quality, ozone level detection, greenhouse gas concentrations, aquatic toxicity, and more
 - [National Data Buoy Center](https://www.ndbc.noaa.gov/) - The premier source of meteorological and oceanographic measurements for the marine environment.
+- [GBIF](https://www.gbif.org/) - ![Python](media/icon/python.png) ![R](media/icon/r.png) Global Biodiversity Information Facility. 2.4B+ species occurrence records used in climate impact assessments and species distribution modeling. Bulk Darwin Core Archive downloads and cloud-optimized formats integrate directly with Python ([pygbif](https://github.com/sckott/pygbif)) and R ([rgbif](https://github.com/ropensci/rgbif)).
 
 | ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
