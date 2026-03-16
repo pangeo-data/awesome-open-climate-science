@@ -70,6 +70,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [MetPy](https://unidata.github.io/MetPy/) - ![Python](media/icon/python.png) Collection of tools for reading, visualizing, and performing calculations with weather data
 - [windspharm](https://ajdawson.github.io/windspharm/index.html) - ![Python](media/icon/python.png) Spherical harmonic wind analysis
 - [wrf-python](https://wrf-python.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) A collection of diagnostic and interpolation routines for use with output of the Weather Research and Forecasting (WRF-ARW) Model
+- [Infernis](https://github.com/argonBIsystems/infernis) - ![Python](media/icon/python.png) ML-powered wildfire risk prediction engine for British Columbia, using XGBoost and CNN models trained on 10 fire seasons from 21 open government and scientific data sources. Provides a free REST API with daily predictions at 5km resolution
 
 ### Oceanography
 
