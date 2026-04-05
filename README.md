@@ -185,6 +185,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [Common Metadata Repository](http://cmr.earthdata.nasa.gov/search) - Search API for NASA's remote-sensed earth science metadata
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php?area=phys&sort=nameUp) – Popular hub for machine learning datasets, featuring "physical sciences" data on air quality, ozone level detection, greenhouse gas concentrations, aquatic toxicity, and more
 - [National Data Buoy Center](https://www.ndbc.noaa.gov/) - The premier source of meteorological and oceanographic measurements for the marine environment.
+- [ZipCheckup](https://zipcheckup.com/) - Free ZIP-level environmental safety data for the US, covering air quality, flood risk, wildfire risk, extreme heat, and 14 more climate/environmental verticals across 42K ZIP codes. Public API, CC BY 4.0.
 
 | ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
