@@ -14,6 +14,7 @@ In accordance with the [awesome manifesto](https://github.com/sindresorhus/aweso
 we add awesome repositories. We are wide open to [contributions](contributing.md) of course!
 Don't hesitate to add your favorite packages by making a [pull request]
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for climate science data workflow orchestration, automated environmental modeling pipeline management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Awesome Open Atmospheric, Ocean, and Climate Science](#awesome-open-atmospheric-ocean-and-climate-science)
