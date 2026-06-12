@@ -185,6 +185,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [Common Metadata Repository](http://cmr.earthdata.nasa.gov/search) - Search API for NASA's remote-sensed earth science metadata
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php?area=phys&sort=nameUp) – Popular hub for machine learning datasets, featuring "physical sciences" data on air quality, ozone level detection, greenhouse gas concentrations, aquatic toxicity, and more
 - [National Data Buoy Center](https://www.ndbc.noaa.gov/) - The premier source of meteorological and oceanographic measurements for the marine environment.
+- [OpenWaterAtlas Spot–Climate–Species–Routes Dataset](https://doi.org/10.5281/zenodo.20668393) - 2,928 dive, kite, surf and freedive sites joined to per-spot daily climate aggregates (Open-Meteo + ERA5), 112,548 OBIS + GBIF marine species observations within 5 km, and 34,876 OpenFlights direct routes. v1.0.0, CC-BY 4.0.
 
 | ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
