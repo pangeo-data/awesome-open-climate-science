@@ -97,6 +97,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [OpenClimateGIS](https://www.earthsystemcog.org/projects/openclimategis/) - ![Python](media/icon/python.png) Geospatial manipulation, subsetting, computation, and translation of spatiotemporal climate data
 - [climpred](https://climpred.readthedocs.io/en/stable/) – ![Python](media/icon/python.png) xarray wrapper for analysis of ensemble forecast models for climate prediction
 - [pyOWM](https://github.com/csparpa/pyowm) - ![Python](media/icon/python.png) PyOWM is a client Python wrapper library for OpenWeatherMap (OWM) web APIs
+- [ENSO Tracker](https://elninoguide.com/dashboard) - ![JavaScript](media/icon/javascript.png) Real-time ENSO monitoring dashboard with embeddable widget. Tracks ONI across 4 Niño regions, SOI, trade winds, and subsurface temperatures from NOAA CPC, BOM, and ECMWF
 
 ### Remote Sensing
 
@@ -185,6 +186,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [Common Metadata Repository](http://cmr.earthdata.nasa.gov/search) - Search API for NASA's remote-sensed earth science metadata
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php?area=phys&sort=nameUp) – Popular hub for machine learning datasets, featuring "physical sciences" data on air quality, ozone level detection, greenhouse gas concentrations, aquatic toxicity, and more
 - [National Data Buoy Center](https://www.ndbc.noaa.gov/) - The premier source of meteorological and oceanographic measurements for the marine environment.
+- [ENSO Historical Dataset](https://github.com/dayu2333-jinyul/enso-historical-data) - Comprehensive monthly ENSO data (1950–2026), 126 records with ONI, SOI, and subsurface temperature anomalies in CSV and JSON formats. CC0.
 
 | ▲ [Top](#awesome-open-atmospheric-ocean-and-climate-science) |
 | --- |
