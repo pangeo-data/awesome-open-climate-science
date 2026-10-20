@@ -97,6 +97,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [OpenClimateGIS](https://www.earthsystemcog.org/projects/openclimategis/) - ![Python](media/icon/python.png) Geospatial manipulation, subsetting, computation, and translation of spatiotemporal climate data
 - [climpred](https://climpred.readthedocs.io/en/stable/) – ![Python](media/icon/python.png) xarray wrapper for analysis of ensemble forecast models for climate prediction
 - [pyOWM](https://github.com/csparpa/pyowm) - ![Python](media/icon/python.png) PyOWM is a client Python wrapper library for OpenWeatherMap (OWM) web APIs
+- [CINEI](https://github.com/Luyikeka/cinei) - ![Python](media/icon/python.png) Integrates global and regional anthropogenic emission inventories (CEDS, EDGAR, HTAP, MEIC) into sector-resolved, model-ready gridded NetCDF for atmospheric chemistry models
 
 ### Remote Sensing
 
