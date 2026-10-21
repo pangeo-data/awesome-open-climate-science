@@ -83,6 +83,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 - [pyoos](https://pypi.org/project/pyoos/) - ![Python](media/icon/python.png)  A Python library for collecting Met/Ocean observations
 - [PyCO2SYS](https://pyco2sys.readthedocs.io/en/latest/) - ![Python](media/icon/python.png) A Python toolbox for solving the marine carbonate system and calculating related seawater properties
 - [Wavespectra](https://github.com/wavespectra/wavespectra) - ![Python](media/icon/python.png) Python library for ocean wave spectral data analysis and processing
+- [Ocean-Plot](https://github.com/1460197441-web/ocean-plot) – ![Python](media/icon/python.png) Command-line SST maps, wind vectors and point time series from rectilinear ocean NetCDF files
 
 ### Climate
 
