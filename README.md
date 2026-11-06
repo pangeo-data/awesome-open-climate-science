@@ -178,6 +178,7 @@ While packages are not technically specific to AOCH science, they are so essenti
 
 - [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) - ![Python](media/icon/python.png) Easy cartographic (maps) data visualization.
 - [Geoviews](http://geo.holoviews.org/) - ![Python](media/icon/python.png) Explore and visualize geographic data using HoloViews. 
+- [HDF5 & NetCDF Explorer](https://github.com/theluckystrike/netcdf-viewer-vscode) - ![JavaScript](media/icon/javascript.png) VS Code extension for netCDF and HDF5 files that shows groups, variables and CF attributes and plots 1D and 2D slices
 
 ## Data Repositories
 
